@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/Users/simenm/Documents/School/4. Semester/IKT-206 (DevOps)/ikt206g24v-05/Example.csproj": {}
+    "C:\\Users\\Aron\\Documents\\GitHub\\ikt206g24v-05\\Example.csproj": {}
   },
   "projects": {
-    "/Users/simenm/Documents/School/4. Semester/IKT-206 (DevOps)/ikt206g24v-05/Example.csproj": {
+    "C:\\Users\\Aron\\Documents\\GitHub\\ikt206g24v-05\\Example.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/simenm/Documents/School/4. Semester/IKT-206 (DevOps)/ikt206g24v-05/Example.csproj",
+        "projectUniqueName": "C:\\Users\\Aron\\Documents\\GitHub\\ikt206g24v-05\\Example.csproj",
         "projectName": "Example",
-        "projectPath": "/Users/simenm/Documents/School/4. Semester/IKT-206 (DevOps)/ikt206g24v-05/Example.csproj",
-        "packagesPath": "/Users/simenm/.nuget/packages/",
-        "outputPath": "/Users/simenm/Documents/School/4. Semester/IKT-206 (DevOps)/ikt206g24v-05/obj/",
+        "projectPath": "C:\\Users\\Aron\\Documents\\GitHub\\ikt206g24v-05\\Example.csproj",
+        "packagesPath": "C:\\Users\\Aron\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Aron\\Documents\\GitHub\\ikt206g24v-05\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/simenm/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Aron\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -90,7 +92,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
